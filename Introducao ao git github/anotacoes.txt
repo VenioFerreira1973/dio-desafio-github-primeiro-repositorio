@@ -1,0 +1,5 @@
+Link para download do git
+
+https://gitforwindows.org/
+
+O git bash é um termina extendido para otimizar o uso do git
